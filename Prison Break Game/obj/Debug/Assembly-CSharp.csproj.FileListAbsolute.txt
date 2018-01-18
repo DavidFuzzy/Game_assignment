@@ -1,0 +1,2 @@
+D:\Prison Break Game\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\Prison Break Game\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
